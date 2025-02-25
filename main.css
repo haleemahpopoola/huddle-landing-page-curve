@@ -94,7 +94,6 @@
         padding: 5rem;
         margin-top: 5rem;
         margin-bottom: 8rem;
-        
     }
     .second::before {
         content: '';
@@ -106,20 +105,17 @@
         background-image: url(images/bg-section-top-desktop-1.svg);
         background-position: center;
         background-repeat: no-repeat;
-        z-index: 1; 
-        
+        z-index: 1;
     }
     .seco, .sec{
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
         align-items: flex-start;
-
     }
     .seco h2{
         font-size: 5rem;
         font-weight: 800;
-
     }
     .sec h2{
         font-weight: 800;
@@ -159,8 +155,7 @@
         background-image: url(images/bg-section-bottom-desktop-1.svg);
         background-position: center;
         background-repeat: no-repeat;
-        z-index: 1; 
-        
+        z-index: 1;
     }
     .thir{
         display: flex;
@@ -209,8 +204,7 @@
         background-image: url(images/bg-section-top-desktop-2.svg);
         background-position: center;
         background-repeat: no-repeat;
-        z-index: 1; 
-        
+        z-index: 1;
     }
     .four{
         display: flex;
@@ -235,7 +229,6 @@
         width: 400px;
         position: relative;
         z-index: 2;
-       
     }
     .fifth{
         position: relative;
@@ -278,7 +271,6 @@
     .fift p{
         max-width: 35rem;
         min-width: 35rem;
-        
     }
     .fif img{
         width: 400px;
@@ -351,7 +343,6 @@
         display: flex;
         flex-direction: column;
         gap: 1rem;
-
     }
     .sev{
         display: flex;
@@ -421,8 +412,7 @@
     }
     .box input{
         height: 40px;
-        width: 300px;
-        
+        width: 300px; 
     }
     .box{
         display: flex;
@@ -432,7 +422,7 @@
 @media screen and (max-width:520px){
     .inner{
         padding: 1rem;
-        max-width: 520px;
+        max-width: 600px;
         min-width: 520px;
     }
     .inner img{
@@ -462,7 +452,7 @@
         margin-bottom: 5rem;
     }
     .outer{
-        max-width: 520px;
+        max-width: 600px;
         min-width: 520px;
         display: flex;
         flex-direction: column;
@@ -479,7 +469,7 @@
     }
     .second{
         position: relative;
-        max-width: 520px;
+        max-width: 600px;
         min-width: 520px;
         display: flex;
         flex-direction: column;
@@ -489,8 +479,7 @@
         text-align: center;
         align-items: center;
         margin-top: 5rem;
-        margin-bottom: 5rem;
-        
+        margin-bottom: 5rem;  
     }
     .second::before {
         content: '';
@@ -502,20 +491,17 @@
         background-image: url(images/bg-section-top-desktop-1.svg);
         background-position: center;
         background-repeat: no-repeat;
-        z-index: 1; 
-        
+        z-index: 1;  
     }
     .seco, .sec{
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-
     }
     .seco h2{
         font-size: 5rem;
         font-weight: 800;
-
     }
     .sec h2{
         font-weight: 800;
@@ -537,7 +523,7 @@
         display: flex;
         flex-direction: column-reverse;   
         background-color: hsl(207, 100%, 98%);
-        max-width: 520px;
+        max-width: 600px;
         min-width: 520px;
         justify-content: center;
         gap: 5rem;
@@ -555,8 +541,7 @@
         background-image: url(images/bg-section-bottom-desktop-1.svg);
         background-position: center;
         background-repeat: no-repeat;
-        z-index: 1; 
-        
+        z-index: 1;  
     }
     .thir{
         display: flex;
@@ -578,7 +563,6 @@
         max-width: 24rem;
         min-width: 24rem;
         margin: auto;
-        
     }
     .thi img{
         width: 400px;
@@ -588,7 +572,7 @@
     .fourth{
         position: relative;
         display: flex;
-        max-width: 520px;
+        max-width: 600px;
         min-width: 520px;
         flex-direction: column;
         justify-content: space-between;
@@ -608,8 +592,7 @@
         background-image: url(images/bg-section-top-desktop-2.svg);
         background-position: center;
         background-repeat: no-repeat;
-        z-index: 1; 
-        
+        z-index: 1;  
     }
     .four{
         display: flex;
@@ -635,13 +618,12 @@
     .fourt img{
         width: 400px;
         position: relative;
-        z-index: 2;
-       
+        z-index: 2; 
     }
     .fifth{
         position: relative;
         background-color: hsl(207, 100%, 98%);
-        max-width: 520px;
+        max-width: 600px;
         min-width: 520px;
         display: flex;
         flex-direction: column-reverse;
@@ -679,8 +661,7 @@
     }
     .fift p{
         max-width: 25.5rem;
-        min-width: 25.5rem;
-        
+        min-width: 25.5rem; 
     }
     .fif img{
         width: 400px;
@@ -804,7 +785,7 @@
         z-index: 1; 
     }
     footer{
-        max-width: 520px;
+        max-width: 600px;
         min-width: 520px;
         background-color: hsl(192, 100%, 9%);
         color: white;
@@ -829,8 +810,7 @@
     }
     .box input{
         height: 50px;
-        width: 350px;
-        
+        width: 350px; 
     }
     .box{
         display: flex;
